@@ -1,0 +1,3 @@
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Release\TestHello.csproj.AssemblyReference.cache
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Release\TestHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Release\TestHello.csproj.CoreCompileInputs.cache

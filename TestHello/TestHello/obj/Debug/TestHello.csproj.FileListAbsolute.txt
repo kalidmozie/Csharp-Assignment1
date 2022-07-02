@@ -1,0 +1,8 @@
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Debug\TestHello.csproj.AssemblyReference.cache
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Debug\TestHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\Bini\Documents\GitHub\githubTest\Csharp-Assignment2\TestHello\TestHello\obj\Debug\TestHello.pdb
